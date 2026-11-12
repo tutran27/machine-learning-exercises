@@ -22,6 +22,8 @@ ENV/
 
 # Large datasets (>100MB exceeds GitHub limit)
 creditcard.csv
+Fraud Detection.csv
+*.csv.tmp
 
 # OS files
 .DS_Store
